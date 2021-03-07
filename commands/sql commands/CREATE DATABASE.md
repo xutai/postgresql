@@ -1,0 +1,5 @@
+\h create database
+\h CREATE DATABASE
+\h CREATE DATABASE;
+
+CREATE DATABASE luban WITH OWNER = xutai;

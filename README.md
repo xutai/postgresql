@@ -1,3 +1,5 @@
+postgresqltutorial.com
+
 
 - add binary file folder to PATH E:\apps\postgresql\installer\pgsql\bin
 
